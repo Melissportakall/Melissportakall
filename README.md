@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIwdXgzeGNremN2eXZqOWFkd3BqdXF3NzhpZ29zbzhxbG5vNzh1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYr/giphy.gif" width="350" alt="Cute Coding GIF" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" alt="Cute Coding GIF" />
   <h1>Hi there, I'm Melis! 👋✨</h1>
   <p><i>Computer Engineering Graduate & System Architecture Enthusiast</i> 🚀</p>
 
-  <!-- Sosyal Medya Rozeti -->
-  <a href="https://linkedin.com/in/melisportakal" target="_blank">
+  
+  <a href="https://www.linkedin.com/in/melis-portakal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
@@ -42,25 +43,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <!-- GitHub İstatistik Kartı -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Melissportakall&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-  <!-- En Çok Kullanılan Diller Kartı -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melissportakall&layout=compact&theme=dracula&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Streak (Seri) İstatistiği -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Melissportakall&theme=dracula&hide_border=true" width="97%" />
+  <!-- Alternatif ve stabil çalışan Readme Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Melissportakall&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Melissportakall&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 
 ---
 
 <div align="center">
-  <!-- Ziyaretçi Sayacı -->
+  <!-- Ziyaretçi Sayacı (Sorunsuz Hex Kodlu Pembe) -->
   <img src="https://komarev.com/ghpvc/?username=Melissportakall&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
